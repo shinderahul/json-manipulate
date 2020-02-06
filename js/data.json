@@ -1,0 +1,9 @@
+{
+    "Artist": {
+      "Singer": {
+        "Arjit Singh": ["Jazz", "Rock"],
+        "Pankaj Udhas": ["Old", "Classical"],
+        "Katty Perry": ["Pop", "country Song"]
+      }
+    }
+  }
