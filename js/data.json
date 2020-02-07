@@ -4,6 +4,23 @@
         "Arjit Singh": ["Jazz", "Rock"],
         "Pankaj Udhas": ["Old", "Classical"],
         "Katty Perry": ["Pop", "country Song"]
+      },
+      "Instrumental Musicians": {
+        "Arjit Singh": ["Jazz", "Rock"],
+        "Pankaj Udhas": ["Old", "Classical"],
+        "Katty Perry": ["Pop", "country Song"]
+      },
+      "Voice Artistes": {
+        "Arjit Singh": ["Jazz", "Rock"],
+        "Pankaj Udhas": ["Old", "Classical"],
+        "Katty Perry": ["Pop", "country Song"]
+      }
+    },
+    "Game": {
+      "Instrumental Musician": {
+        "Buckethead": ["Heavy metal", "hard rock", "ambient", "progressive metal"],
+        "Mike Oldfield": ["Progressive rock", "classical"],
+        "Mono (Japanese band)": ["Post-rock", "contemporary classical"]
       }
     }
   }
